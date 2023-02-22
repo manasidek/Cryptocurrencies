@@ -39,4 +39,4 @@
 
 ![plot_df](https://github.com/manasidek/Cryptocurrencies/blob/main/images/plot_df.png)
 
-![total_coins](https://github.com/manasidek/Cryptocurrencies/blob/main/images/plot_df.png)
+![total_coins](https://github.com/manasidek/Cryptocurrencies/blob/main/images/total_coins.png)
